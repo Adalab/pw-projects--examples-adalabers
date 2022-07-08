@@ -1,0 +1,19 @@
+.card-detail {
+  max-width: 20vw;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 20vw;
+  height: 30vh;
+}
+
+.description {
+  padding: 15px;
+}
